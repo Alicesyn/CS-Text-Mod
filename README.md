@@ -6,3 +6,5 @@
 ## Not working? Make sure that:
 * `csgo_textmodalice.txt` is placed in the correct folder (it needs to be inside the resource folder)
 * Launch option is spelled correctly, this is an example that will work: `-novid -language textmodalice -tickrate 128`
+
+![alt text](https://i.imgur.com/xEiOVGe.png)
