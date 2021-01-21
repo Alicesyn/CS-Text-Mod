@@ -7,4 +7,8 @@
 * `csgo_textmodalice.txt` is placed in the correct folder (it needs to be inside the resource folder)
 * Launch option is spelled correctly, this is an example that will work: `-novid -language textmodalice -tickrate 128`
 
-![alt text](https://i.imgur.com/xEiOVGe.png)
+### Main features with the mod:
+![with mod](https://i.imgur.com/xEiOVGe.png)
+
+### Vanilla CS text:
+![vanilla](https://i.imgur.com/2furKAx.png)
