@@ -1,11 +1,11 @@
 # Installing text mod
-1. Move `csgo_textmodalice.txt` inside this folder: `Steam\SteamApps\Common\Counter-Strike Global Offensive\csgo\resource`
+1. Move `csgo_alicesyn.txt` inside this folder: `Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\resource`
 
-2. Add `-language textmodalice` to your CS:GO launch options
+2. Add `-language alicesyn` to your CS2 launch options
 
 ## Not working? Make sure that:
-* `csgo_textmodalice.txt` is placed in the correct folder (it needs to be inside the resource folder)
-* Launch option is spelled correctly, this is an example that will work: `-novid -language textmodalice -tickrate 128`
+* `csgo_alicesyn.txt` is placed in the correct folder (it needs to be inside the resource folder under Counter-Strike Global Offensive/**game**/csgo/resource)
+* Launch option is spelled correctly, this is an example that will work: `-novid -language alicesyn`
 
 ### Main features with the mod:
 ![with mod](https://i.imgur.com/xEiOVGe.png)
