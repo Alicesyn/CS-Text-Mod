@@ -2,11 +2,12 @@
 1. Go to the [latest release page](https://github.com/Alicesyn/CS-Text-Mod/releases) and click `csgo_alicesyn.txt` to download the latest mod
 
 2. Move `csgo_alicesyn.txt` inside this folder: `Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\resource`
+   - **Notice the `game\csgo` (CS2) folder, and not just `csgo` (CS:GO).**
 
 3. Add `-language alicesyn` to your CS2 launch options
 
 ## Not working? Make sure that:
-* `csgo_alicesyn.txt` is placed in the correct folder (it needs to be inside the resource folder under Counter-Strike Global Offensive/**game**/csgo/resource)
+* `csgo_alicesyn.txt` is placed in the correct folder (it needs to be inside the resource folder under **game**/csgo/resource)
 * Launch option is spelled correctly, this is an example that will work: `-novid -language alicesyn`
 
 ### Main features with the mod:
