@@ -8,7 +8,7 @@
 * Launch option is spelled correctly, this is an example that will work: `-novid -language alicesyn`
 
 ### Main features with the mod:
-![with mod](https://i.imgur.com/xEiOVGe.png)
+![with mod](https://i.imgur.com/8Y4p8g9.png)
 
 ### Vanilla CS text:
-![vanilla](https://i.imgur.com/2furKAx.png)
+![vanilla](https://i.imgur.com/qvbkjng.png)
