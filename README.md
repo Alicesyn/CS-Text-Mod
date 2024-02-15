@@ -1,14 +1,13 @@
 # Installing the text mod
+
+> [!NOTE]
+> CS2 has disabled text mods on 14 December, 2023. But it is possible to work around that by creating a close captions file.
 1. Go to the [latest release page](https://github.com/Alicesyn/CS-Text-Mod/releases) and click `csgo_alicesyn.txt` to download the latest mod
+2. Go to this folder: `Steam\SteamApps\Common\Counter-Strike Global Offensive\game\csgo\resource`
+3. Create new folder: `subtitles`
+4. Put the downloaded file in that folder and name it `closecaption_english.txt`
 
-2. Move `csgo_alicesyn.txt` inside this folder: `Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\resource`
-   - **Notice the `game\csgo` (CS2) folder, and not just `csgo` (CS:GO).**
-
-3. Add `-language alicesyn` to your CS2 launch options
-
-## Not working? Make sure that:
-* `csgo_alicesyn.txt` is placed in the correct folder (it needs to be inside the resource folder under **game**/csgo/resource)
-* Launch option is spelled correctly, this is an example that will work: `-novid -language alicesyn`
+It should look like this: `game\csgo\resource\subtitles\closecaption_english.txt`
 
 ### Main features with the mod:
 ![with mod](https://i.imgur.com/8Y4p8g9.png)
